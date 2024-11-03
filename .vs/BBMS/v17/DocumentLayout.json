@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\bloodstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:bloodstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\bloodstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:bloodstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|c:\\users\\ahmad\\desktop\\bds\\bbms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|c:\\users\\ahmad\\desktop\\bds\\bbms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\employes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:employes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\employes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:employes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\bloodtransfert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:bloodtransfert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\bloodtransfert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:bloodtransfert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\viewpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:viewpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\viewdoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:viewdoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\donateblood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E3AA26E-0D09-4DB3-8FE5-20B38646CBA1}|BBMS.csproj|solutionrelative:donateblood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:37:04.426Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:45:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mainform.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\mainform.cs",
+              "RelativeDocumentMoniker": "mainform.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\mainform.cs",
+              "RelativeToolTip": "mainform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:44:55.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employes.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Employes.cs",
+              "RelativeDocumentMoniker": "Employes.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Employes.cs",
+              "RelativeToolTip": "Employes.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:47:30.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:59:49.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:34:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:37:05.321Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BloodTransfert.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\BloodTransfert.cs",
+              "RelativeDocumentMoniker": "BloodTransfert.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\BloodTransfert.cs [Design]",
+              "RelativeToolTip": "BloodTransfert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:26:59.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BloodTransfert.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\BloodTransfert.cs",
+              "RelativeDocumentMoniker": "BloodTransfert.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\BloodTransfert.cs",
+              "RelativeToolTip": "BloodTransfert.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAA+wEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T06:29:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloodStock.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\BloodStock.cs",
+              "RelativeDocumentMoniker": "BloodStock.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\BloodStock.cs [Design]",
+              "RelativeToolTip": "BloodStock.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:06:23.737Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewPatient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\ViewPatient.cs",
+              "RelativeDocumentMoniker": "ViewPatient.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\ViewPatient.cs [Design]",
+              "RelativeToolTip": "ViewPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:31:40.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloodStock.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\BloodStock.cs",
+              "RelativeDocumentMoniker": "BloodStock.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\BloodStock.cs",
+              "RelativeToolTip": "BloodStock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:05:44.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Patient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Patient.cs [Design]",
+              "RelativeToolTip": "Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:26:30.532Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewDoner.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\ViewDoner.cs",
+              "RelativeDocumentMoniker": "ViewDoner.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\ViewDoner.cs [Design]",
+              "RelativeToolTip": "ViewDoner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:17:03.699Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Donor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Donor.cs",
+              "RelativeDocumentMoniker": "Donor.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Donor.cs [Design]",
+              "RelativeToolTip": "Donor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:39:33.344Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Admin.cs [Design]",
+              "RelativeToolTip": "Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T02:02:41.157Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Employes.cs",
+              "RelativeDocumentMoniker": "Employes.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Employes.cs [Design]",
+              "RelativeToolTip": "Employes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:12:31.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:58:05.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DonateBlood.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\DonateBlood.cs",
+              "RelativeDocumentMoniker": "DonateBlood.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\DonateBlood.cs [Design]",
+              "RelativeToolTip": "DonateBlood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:36:49.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mainform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\mainform.cs",
+              "RelativeDocumentMoniker": "mainform.cs",
+              "ToolTip": "C:\\Users\\AHMAD\\Desktop\\BDS\\BBMS\\mainform.cs [Design]",
+              "RelativeToolTip": "mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:09:01.786Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
